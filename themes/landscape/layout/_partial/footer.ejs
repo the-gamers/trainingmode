@@ -1,0 +1,66 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+	
+     <br><br>
+  
+      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.6.1/firebase.js"></script>
+
+<script>  
+
+(function ()
+  {
+      var config = 
+          {
+              apiKey: "AIzaSyDIflcXwn59VICDiSrBov99In0IXyYVHdo",
+              authDomain: "projeto1-e1d1b.firebaseapp.com",
+              databaseURL: "https://projeto1-e1d1b.firebaseio.com",
+              projectId: "projeto1-e1d1b",
+              storageBucket: "projeto1-e1d1b.appspot.com",
+              messagingSenderId: "1064308455402"
+          };
+
+          firebase.initializeApp(config);
+  })();
+
+  $(document).click(function(event) 
+  {
+    var text = $(event.target).text();
+    
+    if (text == 'aqui')
+      {
+          firebase.database().ref('/admin/logs/download').once('value').then(function(data)
+          {
+                let updateDownload = data.val();
+                updateDownload = updateDownload + 1;
+                let update = {download: updateDownload}
+
+                firebase.database().ref('/admin/logs/').update(update);
+          });      
+      }
+  });
+
+  function addVisit()
+  {
+    firebase.database().ref('/admin/logs/visit').once('value').then(function(data)
+        {
+            let updateVisit = data.val();
+            updateVisit = updateVisit + 1;
+            $('#visit').text(updateVisit);
+            let update = {visit: updateVisit}
+
+            firebase.database().ref('/admin/logs/').update(update);
+        });    
+  }
+
+</script> 
+</footer>
