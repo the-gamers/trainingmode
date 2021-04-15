@@ -11,9 +11,6 @@
                </ul>
               </div>
             </div>
-  <% theme.widgets.forEach(function(widget){ %>
-    <%- partial('_widget/' + widget) %>
-  <% }) %>
 
 <br>
 
@@ -31,5 +28,8 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+  <% theme.widgets.forEach(function(widget){ %>
+    <%- partial('_widget/' + widget) %>
+  <% }) %>
 
 </aside>
