@@ -6,7 +6,7 @@ date: 2021-04-15 14:54:00
 ---
 Modo treino adaptado para o jogo Ninja Master's. Usa o emulador MAME, (já incluso) para iniciar o jogo execute o arquivo **INICIAR MAME.bat**.
 
-Download disponível[aqui]
+Download disponível [aqui](https://drive.google.com/file/d/1qWXmkeOh_26WSXFY65BkMN8NBhnZeR8Y/view?usp=sharing)
 
 ![Ninja Master's](https://the-gamers.github.io/trainingmode/images/ninjamasters.png)
 
