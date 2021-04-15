@@ -1,7 +1,8 @@
 title: Ninja Master's
 author: by PsychoMaster
-date: 2021-04-15 14:54:42
-tags:
+tags: []
+categories: []
+date: 2021-04-15 14:54:00
 ---
 Modo treino adaptado para o jogo Ninja Master's. Usa o emulador MAME, (já incluso) para iniciar o jogo execute o arquivo **INICIAR MAME.bat**.
 
