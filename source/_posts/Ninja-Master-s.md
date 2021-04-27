@@ -17,4 +17,5 @@ Modo treino adaptado para o jogo Ninja Master's. Usa o emulador MAME, (já inclu
 * Para retornar a tela de player select, tecla **L**
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/1qWXmkeOh_26WSXFY65BkMN8NBhnZeR8Y/view?usp=sharing)
+Download disponível [aqui](http://j.gs/FQMV)
+

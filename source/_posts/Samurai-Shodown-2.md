@@ -13,4 +13,4 @@ Modo treino adaptado para o Samurai Shodown II. Usa o emulador MAME, **(já incl
 * Para retornar a tela de player select mantenha **START** pressionado por alguns segundos
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/1HHArebIHLGwZFfjisbrQ03fyx5ZdCOgh/view?usp=sharing)
+Download disponível [aqui](http://j.gs/25197835/samsho2)

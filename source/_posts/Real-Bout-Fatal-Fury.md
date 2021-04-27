@@ -14,4 +14,4 @@ Modo treino adaptado para o jogo Real Bout Fatal Fury. Usa o emulador MAME, **(j
 * Para retornar a tela de player select mantenha **START ** pressionado por alguns segundos
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/16KfWygucoL44bX29EhZkoMcQRC-o25PC/view?usp=sharing)
+Download disponível [aqui](http://j.gs/25197835/realbout)

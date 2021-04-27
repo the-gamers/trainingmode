@@ -15,4 +15,4 @@ Modo treino adaptado para o jogo Fatal Fury 3. Usa o emulador MAME, **(já inclu
 * Para retornar a tela de player select mantenha **COIN / SELECT** pressionado por alguns segundos
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/1ouuJeg6rqlq9Alk9RYSiXX6NzQabAXwV/view?usp=sharing)
+Download disponível [aqui](http://j.gs/25197835/ffury3)

@@ -14,4 +14,4 @@ Modo treino adaptado para o jogo World Heroes Perfect. Usa o emulador MAME, **(j
 * Para retornar a tela de player select mantenha **START** pressionado por alguns segundos
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/1ApXp66p6gfccd3zGS7I3zzsCbxezb9w1/view?usp=sharing)
+Download disponível [aqui](http://j.gs/25197835/whperfect)

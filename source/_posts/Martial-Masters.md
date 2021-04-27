@@ -14,4 +14,4 @@ Modo treino adaptado para o jogo Martial Masters. Usa o emulador MAME, **(já in
 * Para retornar a tela de player select mantenha **START** pressionado por alguns segundos
 * Para fechar o jogo pressione tecla **ESC**
 
-Download disponível [aqui](https://drive.google.com/file/d/1UaKQhJ3sagh0LirZCCuIK8AHs7nfghbt/view?usp=sharing)
+Download disponível [aqui](http://j.gs/25197835/martialmasters)
